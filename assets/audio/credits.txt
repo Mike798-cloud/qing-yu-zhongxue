@@ -1,0 +1,12 @@
+折页 · 声音素材说明
+
+Various Paper Sound Effects — Luckius
+https://opengameart.org/content/various-paper-sound-effects
+License: CC0 1.0
+Used: Paper Sound 1/2/3/4, Paper Crushed 1.
+
+Coffee grinder (0167) — DavidGreck / BigSoundBank
+https://bigsoundbank.com/old-coffee-grinder-s0167.html
+License: CC0
+
+素材经裁切、均衡、音量整理和循环处理，用于纸张及手摇机械的拟音。夹子、脚步、铅笔与纸槽还叠有本作生成的轻微材质声。音频随代码内嵌，离线播放。
